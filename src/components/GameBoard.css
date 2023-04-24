@@ -1,7 +1,0 @@
-.gameBoard {
-  height: 170px;
-  width: 170px;
-  display: flex;
-  flex-flow: wrap;
-  margin-right: 35px;
-}
